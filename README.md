@@ -1,2 +1,1 @@
-# python
-Data analysis
+# Data analysis
